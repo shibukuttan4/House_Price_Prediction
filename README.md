@@ -2,10 +2,6 @@
 Unlock the future of real estate with our House Price Prediction model. Accurate, fast, and reliable pricing insights at your fingertips.
 I can help you create a README file for your GitHub project, but I won't be able to create or modify files directly on GitHub. You'll need to follow these steps to create a README file for your project:
 
-1. Create a new file locally on your computer and name it `README.md`. You can use a text editor or an integrated development environment (IDE) to do this.
-
-2. Copy and paste the following README template into your `README.md` file:
-
 ```markdown
 # House Price Prediction
 
@@ -78,7 +74,7 @@ For any questions or feedback, please feel free to reach out to us.
 
 ---
 
-**Note**: This README provides a high-level overview of the project. For in-depth details and code, refer to the Jupyter Notebook (`house_price_prediction.ipynb`) within this repository.
+**Note**: This README provides a high-level overview of the project.For in-depth details and code, refer to the Jupyter Notebook (`house_price_prediction.ipynb`) within this repository.
 ```
 
 3. Save the `README.md` file.
